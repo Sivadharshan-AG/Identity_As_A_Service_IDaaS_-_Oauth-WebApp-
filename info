@@ -1,0 +1,18 @@
+npx create-react-app google-login-demo
+cd google-login-demo
+npm install @react-oauth/google jwt-decode
+
+
+commands : npm start  to stop crtl+c
+
+google-login-demo/
+│
+├── .env
+├── package.json
+├── public/
+│   ├── index.html
+│
+└── src/
+    ├── index.js
+    ├── App.js
+    ├── App.css
